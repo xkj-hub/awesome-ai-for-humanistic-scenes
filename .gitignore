@@ -1,0 +1,14 @@
+# 本地内部文件，不推送到公开仓库
+任务交接文档_AI人文场景开源清单.md
+AI人文场景_开源项目最终清单.md
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
