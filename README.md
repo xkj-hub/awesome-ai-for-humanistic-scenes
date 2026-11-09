@@ -1,12 +1,10 @@
 # Awesome AI for Humanistic Scenes [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of open-source projects where AI meets everyday human life: companionship, elderly care, parenting, social interaction, emotional support, accessibility, and memory & life stories.
->
+> 
 > AI 与人的日常关系：陪伴、养老、育儿、社交、情感支持、无障碍与记忆与叙事场景的 GitHub 开源项目索引。
 
-**58 projects** · snapshot 2026-11-06 · grouped by life scene · auto-updated daily.
-
-只收 GitHub 开源项目，不含 awesome 资源清单、闭源商业产品、系统内置功能与政策材料。地址可直接复制。
+**57 projects** · snapshot 2026-11-06 · grouped by life scene · auto-updated daily.
 
 ## Contents
 
@@ -18,7 +16,6 @@
 - [Emotional Support](#emotional-support)
 - [Memory and Narrative](#memory-and-narrative)
 - [Accessibility](#accessibility)
-- [Pending Review](#pending-review)
 - [License](#license)
 
 * * *
@@ -41,6 +38,7 @@
 - [zeekk0/OpenAmika](https://github.com/zeekk0/OpenAmika) - Live2D加实时语音与长期记忆。
 - [kiyotakali/Miru](https://github.com/kiyotakali/Miru) - 本地运行且带长期记忆的AI伴侣。
 - [3lmglow/Phosphene](https://github.com/3lmglow/Phosphene) - 面向人AI关系的自托管任务奖励与日常互动系统。
+- [AhmadHassan-BTed/B](https://github.com/AhmadHassan-BTed/B) - 具备屏幕视觉、语音合成与窗口感知的隐私优先AI桌面伴侣。
 
 * * *
 
@@ -82,6 +80,7 @@
 - [cyw-bot/-RK3588-AI-AI-](https://github.com/cyw-bot/-RK3588-AI-AI-) - 多模态AI陪伴仿生手,手势视觉语音。
 - [zengxiaoqi/ai-growth-companion](https://github.com/zengxiaoqi/ai-growth-companion) - AI驱动的儿童教育陪伴应用。
 - [hahaaa520/mengban-ai](https://github.com/hahaaa520/mengban-ai) - 儿童睡前陪伴Skill:故事语音交互三段渐隐。
+- [Hermes815/kid-mode-jarvis](https://github.com/Hermes815/kid-mode-jarvis) - 面向儿童的Gemini Live语音控制台,由服务端而非模型裁决真实结果。
 
 * * *
 
@@ -98,6 +97,7 @@ AI 中介或模拟的人类社交：社会模拟与社交智能体。
 - [sotopia-lab/sotopia-rl](https://github.com/sotopia-lab/sotopia-rl) - 面向社交智能的奖励设计。
 - [Gifted-Dreamers/HowtoClaude](https://github.com/Gifted-Dreamers/HowtoClaude) - 关系优先的人机协作实践。
 - [jwynia/context-networks](https://github.com/jwynia/context-networks) - 面向关系的人AI知识协作框架。
+- [mistval/yozakura](https://github.com/mistval/yozakura) - LLM驱动的社会模拟引擎,NPC在地图上互动并形成记忆与意图。
 
 * * *
 
@@ -129,17 +129,6 @@ AI 回忆录、口述史、家族史、数字遗物与个人时间轴。
 ## Accessibility
 
 目前未检索到符合收录标准的开源项目；该方向的落地能力集中在闭源商业产品与系统内置功能（Be My AI、Microsoft Seeing AI、系统级 Live Captions）。
-
-* * *
-
-## Pending Review
-
-仓库存在且含可运行代码，但未标明开源许可，状态等同于 awesome 清单里的 `verify` 标签，需复核后再正式收录。
-
-- [EverlastingAI-Official/LifeContextOS](https://github.com/EverlastingAI-Official/LifeContextOS) - 端侧运行的LifeContext OS。
-- [abstractmachine/Corita](https://github.com/abstractmachine/Corita) - 用口述史语料训练的交互式文本转换教授。
-- [xiaoyuy727-cloud/SeniorMemoirPromptOptimization](https://github.com/xiaoyuy727-cloud/SeniorMemoirPromptOptimization) - 复旦形策课题：基于LLM的老年人口述回忆录优化实践。
-- [AGATCT/MemoirBot](https://github.com/AGATCT/MemoirBot) - 带个人长期记忆的LLM agent框架。
 
 * * *
 
