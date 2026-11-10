@@ -4,7 +4,7 @@
 > 
 > AI 与人的日常关系：陪伴、养老、育儿、社交、情感支持、无障碍与记忆与叙事场景的 GitHub 开源项目索引。
 
-**57 projects** · snapshot 2026-11-06 · grouped by life scene · auto-updated daily.
+**59 projects** · snapshot 2026-11-06 · grouped by life scene · auto-updated daily.
 
 ## Contents
 
@@ -39,6 +39,8 @@
 - [kiyotakali/Miru](https://github.com/kiyotakali/Miru) - 本地运行且带长期记忆的AI伴侣。
 - [3lmglow/Phosphene](https://github.com/3lmglow/Phosphene) - 面向人AI关系的自托管任务奖励与日常互动系统。
 - [AhmadHassan-BTed/B](https://github.com/AhmadHassan-BTed/B) - 具备屏幕视觉、语音合成与窗口感知的隐私优先AI桌面伴侣。
+- [ryanstephen/lil-agents](https://github.com/ryanstephen/lil-agents) - macOS 程序坞里的迷你 AI 桌宠，点击角色即可唤起 AI 终端对话。
+- [death34018-hue/AionsHome](https://github.com/death34018-hue/AionsHome) - Aion — 一个支持长期记忆、语音交互、摄像头视觉的伴侣。 A self-hosted AI companion with long-term memory, voice interaction, camera vision, and smart home integration.
 
 * * *
 
