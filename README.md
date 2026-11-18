@@ -4,7 +4,7 @@
 > 
 > AI 与人的日常关系：陪伴、养老、育儿、社交、情感支持、无障碍与记忆与叙事场景的 GitHub 开源项目索引。
 
-**61 projects** · snapshot 2026-11-06 · grouped by life scene · auto-updated daily.
+**62 projects** · snapshot 2026-11-06 · grouped by life scene · auto-updated daily.
 
 ## Contents
 
@@ -42,6 +42,7 @@
 - [ryanstephen/lil-agents](https://github.com/ryanstephen/lil-agents) - macOS 程序坞里的迷你 AI 桌宠，点击角色即可唤起 AI 终端对话。
 - [death34018-hue/AionsHome](https://github.com/death34018-hue/AionsHome) - 自托管 AI 伴侣，带长期记忆、语音交互、摄像头视觉与智能家居。
 - [datascale-ai/inksight](https://github.com/datascale-ai/inksight) - 墨水屏桌面伴侣，网页一键刷机与配置，24 种模式涵盖天气、便签、诗词与 AI 简报。
+- [Koishi007/koishi-ai-pet](https://github.com/Koishi007/koishi-ai-pet) - PySide6 + LLM 桌面 AI 桌宠（古明地恋），能感知屏幕、与窗口互动并主动对话，带持久记忆与内置小游戏。
 
 * * *
 
