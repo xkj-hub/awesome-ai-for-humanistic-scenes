@@ -4,7 +4,7 @@
 > 
 > AI 与人的日常关系：陪伴、养老、育儿、社交、情感支持、无障碍与记忆与叙事场景的 GitHub 开源项目索引。
 
-**62 projects** · snapshot 2026-11-06 · grouped by life scene · auto-updated daily.
+**64 projects** · snapshot 2026-11-06 · grouped by life scene · auto-updated daily.
 
 ## Contents
 
@@ -43,6 +43,7 @@
 - [death34018-hue/AionsHome](https://github.com/death34018-hue/AionsHome) - 自托管 AI 伴侣，带长期记忆、语音交互、摄像头视觉与智能家居。
 - [datascale-ai/inksight](https://github.com/datascale-ai/inksight) - 墨水屏桌面伴侣，网页一键刷机与配置，24 种模式涵盖天气、便签、诗词与 AI 简报。
 - [Koishi007/koishi-ai-pet](https://github.com/Koishi007/koishi-ai-pet) - PySide6 + LLM 桌面 AI 桌宠（古明地恋），能感知屏幕、与窗口互动并主动对话，带持久记忆与内置小游戏。
+- [qianyiai/kurocat](https://github.com/qianyiai/kurocat) - 跨平台 3D/2D 桌面打字小黑猫桌宠，可摸头互动、输密码自动闭眼，支持 OBS 免抠像与 AI 编程状态联动。
 
 * * *
 
@@ -73,6 +74,7 @@
 - [CtrlCSV/AI-Digital-Human-for-Elderly-Companionship](https://github.com/CtrlCSV/AI-Digital-Human-for-Elderly-Companionship) - 老年情感陪伴数字人系统,竞赛作品。
 - [Yue3335/yidianxin-app-1](https://github.com/Yue3335/yidianxin-app-1) - 老年端加子女端:情感陪伴健康监测防诈骗。
 - [Kuiguang-Ctrl/xiaoliaoweb](https://github.com/Kuiguang-Ctrl/xiaoliaoweb) - 老年积极心理AI助手:脑力训练回忆与传承时光轴。
+- [eclexdex/home-care-agent](https://github.com/eclexdex/home-care-agent) - 面向独居老人的本地优先居家照护方案，五条 Home Assistant 自动化覆盖紧急按钮、门窗看守、冻热告警与夜间照明，可选本地 AI 生成每日家庭摘要。
 
 * * *
 
